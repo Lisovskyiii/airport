@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Flights xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flights_List>
+    <Flight>
+      <Status>В ожидании</Status>
+      <ID>95371</ID>
+      <Destination_Point>Париж</Destination_Point>
+      <Stop_point>Лондон</Stop_point>
+      <Flight_range>1000</Flight_range>
+      <Weight>222</Weight>
+      <Passengers>100</Passengers>
+      <Name_plane>A21</Name_plane>
+      <pilot1>Лик Лик Лик</pilot1>
+      <kapitan>Лик Лик Лик</kapitan>
+      <pilot2>Лик Лик Лик</pilot2>
+      <stuardesa>Лик Лик Лик</stuardesa>
+    </Flight>
+    <Flight>
+      <Status>В ожидании</Status>
+      <ID>24520</ID>
+      <Destination_Point>Париж</Destination_Point>
+      <Stop_point>Лондон</Stop_point>
+      <Flight_range>1000</Flight_range>
+      <Weight>222</Weight>
+      <Passengers>100</Passengers>
+      <Name_plane>A21</Name_plane>
+      <pilot1>Лик Лик Лик</pilot1>
+      <kapitan>Лик Лик Лик</kapitan>
+      <pilot2>Лик Лик Лик</pilot2>
+      <stuardesa>Лик Лик Лик</stuardesa>
+    </Flight>
+    <Flight>
+      <Status>В ожидании</Status>
+      <ID>45995</ID>
+      <Destination_Point>Минск</Destination_Point>
+      <Stop_point>Гродно</Stop_point>
+      <Flight_range>1111</Flight_range>
+      <Weight>222</Weight>
+      <Passengers>100</Passengers>
+      <Name_plane>A23</Name_plane>
+      <pilot1>Лик Лик Мик</pilot1>
+      <kapitan>Лик Лик Лик</kapitan>
+      <pilot2>Лик Лик Мик</pilot2>
+      <stuardesa>Лик Лик Мик</stuardesa>
+    </Flight>
+  </Flights_List>
+</Flights>
